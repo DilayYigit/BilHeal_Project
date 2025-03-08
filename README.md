@@ -1,11 +1,6 @@
-![Health Center Light Logo](/public/img/logo.png#gh-light-mode-only)
-![Health Center Dark Logo](/public/img/logo-dark.png#gh-dark-mode-only)
-
 # About BilHeal
 
 BilHeal is a proposed web app for Bilkent University's Health Center that aims to ease the interaction between patients and the health center's staff.
-
-![Dashboard Screenshot](/public/img/dashboard.png)
 
 ## Table of contents
 
